@@ -1,0 +1,25 @@
+Arby's	Sandwich	8
+Olive Garden	Italian	30
+mcDonald's	fast food	7
+Waffle House	Breakfast	10
+Taco Bell	mexican	7
+starbucks	coffee	5
+zaxby's	chicken	10
+Papa John's	pizza	15
+Cracker Barrel	comfort	11
+Steak and Shake	Burgers	10
+Sonic	Fast Food	8
+Wendy's	fast food	7
+Panera Bread	sandwich	12
+Moe's	Tex Mex	11
+McAlister's	sandwich	12
+Three Trees	coffee	5
+Chili's	Tex Mex	15
+Baldinos	sandwich	8
+Jersey Mike's	sandwich	10
+Chick-fil-a	chicken	9
+Wink Maxx	wings	9
+Buffalo Wild Wings	wings	15
+El Sombrero	Mexican	12
+Wild Wing Cafe	wings	15
+Gyro Place	Greek	8
